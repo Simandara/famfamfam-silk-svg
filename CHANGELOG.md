@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/Simandara/famfamfam-silk-svg/compare/v1.3.3...v1.3.4) (2026-01-04)
+
+
+### Bug Fixes
+
+* Rename "treee" to "tree". ([#238](https://github.com/Simandara/famfamfam-silk-svg/issues/238)) ([7036a7c](https://github.com/Simandara/famfamfam-silk-svg/commit/7036a7cd68ace0030672a7f7c728a13a046ddc00))
+
 ## [1.3.3](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.3.2...v1.3.3) (2025-03-20)
 
 
