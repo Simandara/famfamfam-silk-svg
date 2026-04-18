@@ -1,5 +1,5 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0.5 3C0.5 2.17157 1.17157 1.5 2 1.5H13C13.8284 1.5 14.5 2.17157 14.5 3V13C14.5 13.2761 14.2761 13.5 14 13.5H1C0.723858 13.5 0.5 13.2761 0.5 13V3Z" fill="#92B9E8" stroke="url(#paint0_linear_85_1717)"/>
+<path d="M2 1.5H13C13.8284 1.5 14.5 2.17157 14.5 3V13C14.5 13.2761 14.2761 13.5 14 13.5H1C0.723858 13.5 0.5 13.2761 0.5 13V3C0.5 2.17157 1.17157 1.5 2 1.5Z" fill="#92B9E8" stroke="url(#paint0_linear_85_1717)"/>
 <g filter="url(#filter0_i_85_1717)">
 <path d="M1 3H14V13H1V3Z" fill="url(#paint1_radial_85_1717)"/>
 </g>
@@ -9,10 +9,13 @@
 </mask>
 <path d="M1 4H7V13H1V4Z" fill="#DEFFD9"/>
 <path d="M6 4V13H8V4H6Z" fill="#6CAD65" mask="url(#path-4-inside-1_85_1717)"/>
+<mask id="path-6-inside-2_85_1717" fill="white">
+<path d="M8 7L6 7L6 10L8 10L8 12L12 8.5L8 5L8 7Z"/>
+</mask>
 <g filter="url(#filter1_i_85_1717)">
 <path d="M8 7L6 7L6 10L8 10L8 12L12 8.5L8 5L8 7Z" fill="#82C27C"/>
 </g>
-<path d="M8 7.5C8.27614 7.5 8.5 7.27614 8.5 7L8.5 6.10188L11.2407 8.5L8.5 10.8981L8.5 10C8.5 9.72386 8.27614 9.5 8 9.5L6.5 9.5L6.5 7.5L8 7.5Z" stroke="url(#paint3_linear_85_1717)" stroke-linejoin="round"/>
+<path d="M6 7L6 6L5 6L5 7L6 7ZM8 7L8 8C8.55228 8 9 7.55228 9 7L8 7ZM8 5L8.6585 4.24742L7 2.79623L7 5L8 5ZM12 8.5L12.6585 9.25258L13.5186 8.5L12.6585 7.74742L12 8.5ZM8 12L7 12L7 14.2038L8.6585 12.7526L8 12ZM8 10L9 10C9 9.44772 8.55228 9 8 9L8 10ZM6 10L5 10L5 11L6 11L6 10ZM6 7L6 8L8 8L8 7L8 6L6 6L6 7ZM8 7L9 7L9 5L8 5L7 5L7 7L8 7ZM8 5L7.3415 5.75258L11.3415 9.25258L12 8.5L12.6585 7.74742L8.6585 4.24742L8 5ZM12 8.5L11.3415 7.74742L7.3415 11.2474L8 12L8.6585 12.7526L12.6585 9.25258L12 8.5ZM8 12L9 12L9 10L8 10L7 10L7 12L8 12ZM8 10L8 9L6 9L6 10L6 11L8 11L8 10ZM6 10L7 10L7 7L6 7L5 7L5 10L6 10Z" fill="url(#paint3_linear_85_1717)" mask="url(#path-6-inside-2_85_1717)"/>
 <defs>
 <filter id="filter0_i_85_1717" x="1" y="3" width="13" height="10" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
