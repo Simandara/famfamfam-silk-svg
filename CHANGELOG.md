@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/Simandara/famfamfam-silk-svg/compare/v1.3.5...v1.3.6) (2026-04-18)
+
+
+### Bug Fixes
+
+* **#171:** 🐛 fix mitter angles on borders ([#244](https://github.com/Simandara/famfamfam-silk-svg/issues/244)) ([ffb05ce](https://github.com/Simandara/famfamfam-silk-svg/commit/ffb05ce0812cd334665f5c1c7dbae6958e646efb))
+
 ## [1.3.5](https://github.com/Simandara/famfamfam-silk-svg/compare/v1.3.4...v1.3.5) (2026-04-18)
 
 
