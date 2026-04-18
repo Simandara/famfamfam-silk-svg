@@ -1,5 +1,5 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0.5 3C0.5 2.17157 1.17157 1.5 2 1.5H13C13.8284 1.5 14.5 2.17157 14.5 3V13C14.5 13.2761 14.2761 13.5 14 13.5H1C0.723858 13.5 0.5 13.2761 0.5 13V3Z" fill="#92B9E8" stroke="url(#paint0_linear_85_1716)"/>
+<path d="M2 1.5H13C13.8284 1.5 14.5 2.17157 14.5 3V13C14.5 13.2761 14.2761 13.5 14 13.5H1C0.723858 13.5 0.5 13.2761 0.5 13V3C0.5 2.17157 1.17157 1.5 2 1.5Z" fill="#92B9E8" stroke="url(#paint0_linear_85_1716)"/>
 <g filter="url(#filter0_i_85_1716)">
 <path d="M1 3H14V13H1V3Z" fill="url(#paint1_radial_85_1716)"/>
 </g>
@@ -9,10 +9,13 @@
 </mask>
 <path d="M1 4H7V13H1V4Z" fill="#DEFFD9"/>
 <path d="M6 4V13H8V4H6Z" fill="#3F803A" mask="url(#path-4-inside-1_85_1716)"/>
+<mask id="path-6-inside-2_85_1716" fill="white">
+<path d="M5 10H7V7H5V5L1 8.5L5 12V10Z"/>
+</mask>
 <g filter="url(#filter1_i_85_1716)">
 <path d="M5 10H7V7H5V5L1 8.5L5 12V10Z" fill="#82C27C"/>
 </g>
-<path d="M5 9.5C4.72386 9.5 4.5 9.72386 4.5 10V10.8981L1.7593 8.5L4.5 6.10188V7C4.5 7.27614 4.72386 7.5 5 7.5H6.5V9.5H5Z" stroke="url(#paint3_linear_85_1716)" stroke-linejoin="round"/>
+<path d="M7 10V11H8V10H7ZM5 10V9C4.44772 9 4 9.44772 4 10H5ZM5 12L4.3415 12.7526L6 14.2038V12H5ZM1 8.5L0.341495 7.74742L-0.518592 8.5L0.341495 9.25258L1 8.5ZM5 5H6L6 2.79623L4.3415 4.24742L5 5ZM5 7H4C4 7.55228 4.44772 8 5 8V7ZM7 7H8V6H7V7ZM7 10V9H5V10V11H7V10ZM5 10H4V12H5H6V10H5ZM5 12L5.6585 11.2474L1.6585 7.74742L1 8.5L0.341495 9.25258L4.3415 12.7526L5 12ZM1 8.5L1.6585 9.25258L5.6585 5.75258L5 5L4.3415 4.24742L0.341495 7.74742L1 8.5ZM5 5H4V7H5H6V5H5ZM5 7V8H7V7V6H5V7ZM7 7H6V10H7H8V7H7Z" fill="url(#paint3_linear_85_1716)" mask="url(#path-6-inside-2_85_1716)"/>
 <defs>
 <filter id="filter0_i_85_1716" x="1" y="3" width="13" height="10" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>

@@ -15,17 +15,20 @@
 <rect x="10" y="5" width="4" height="1" rx="0.5" fill="black" fill-opacity="0.33"/>
 <circle cx="13" cy="8" r="1" fill="url(#paint3_linear_188_3178)"/>
 <path d="M7.5 11H4.5C4.5 12.6667 4.5 13.5 3 14.3333V16H9L9 14.3333C7.5 13.5 7.5 12.6667 7.5 11Z" fill="url(#paint4_linear_188_3178)"/>
-<path d="M4.99861 11.5H7.00139C7.00761 12.1058 7.04097 12.6594 7.21706 13.1485C7.43172 13.7448 7.83664 14.2048 8.5 14.6191L8.5 15.5H3.5V14.6191C4.16336 14.2048 4.56829 13.7448 4.78294 13.1485C4.95903 12.6594 4.99239 12.1058 4.99861 11.5Z" stroke="black" stroke-opacity="0.33"/>
+<path d="M7.00293 11.5C7.00916 12.1057 7.04076 12.6593 7.2168 13.1484C7.43136 13.7445 7.83715 14.203 8.5 14.6172V15.5H3.5V14.6172C4.16285 14.203 4.56864 13.7445 4.7832 13.1484C4.95924 12.6593 4.99084 12.1057 4.99707 11.5H7.00293Z" stroke="black" stroke-opacity="0.33"/>
 <rect x="0.5" y="3.5" width="11" height="9" rx="0.5" fill="url(#paint5_linear_188_3178)" stroke="url(#paint6_linear_188_3178)" stroke-linejoin="round"/>
 <rect x="2" y="5" width="8" height="6" fill="#6EA4DC"/>
 <rect x="2" y="5" width="8" height="6" fill="url(#paint7_linear_188_3178)"/>
 <rect x="2" y="5" width="8" height="6" fill="url(#paint8_linear_188_3178)"/>
-<rect x="2.5" y="5.5" width="7" height="5" stroke="black" stroke-opacity="0.33" stroke-linejoin="round" style="mix-blend-mode:overlay"/>
+<rect x="2.5" y="5.5" width="7" height="5" stroke="black" stroke-opacity="0.33" style="mix-blend-mode:overlay" stroke-linejoin="round"/>
+<mask id="path-15-inside-3_188_3178" fill="white">
+<path d="M10 9H6V14H10V16H11L16 11.5L11 7H10V9Z"/>
+</mask>
 <g filter="url(#filter0_i_188_3178)">
 <path d="M10 9H6V14H10V16H11L16 11.5L11 7H10V9Z" fill="#80B361"/>
 </g>
-<path d="M10 9.5C10.2761 9.5 10.5 9.27614 10.5 9V7.5H10.8081L15.2526 11.5L10.8081 15.5H10.5V14C10.5 13.7239 10.2761 13.5 10 13.5H6.5V9.5H10Z" stroke="url(#paint9_linear_188_3178)" stroke-linejoin="round"/>
-<path d="M7.5 12.5V10.5H10C10.7149 10.5 11.2659 10.0257 11.4412 9.41686L13.7531 11.5L11.4413 13.5831C11.263 12.9643 10.6975 12.5 10.0049 12.5H7.5Z" stroke="white" stroke-opacity="0.2" stroke-linejoin="round"/>
+<path d="M6 9V8H5V9H6ZM10 9V10C10.5523 10 11 9.55228 11 9H10ZM10 7V6H9V7H10ZM11 7L11.669 6.25671L11.3837 6H11V7ZM16 11.5L16.669 12.2433L17.4948 11.5L16.669 10.7567L16 11.5ZM11 16V17H11.3837L11.669 16.7433L11 16ZM10 16H9V17H10V16ZM10 14H11C11 13.4477 10.5523 13 10 13V14ZM6 14H5V15H6V14ZM6 9V10H10V9V8H6V9ZM10 9H11V7H10H9V9H10ZM10 7V8H11V7V6H10V7ZM11 7L10.331 7.74329L15.331 12.2433L16 11.5L16.669 10.7567L11.669 6.25671L11 7ZM16 11.5L15.331 10.7567L10.331 15.2567L11 16L11.669 16.7433L16.669 12.2433L16 11.5ZM11 16V15H10V16V17H11V16ZM10 16H11V14H10H9V16H10ZM10 14V13H6V14V15H10V14ZM6 14H7V9H6H5V14H6Z" fill="url(#paint9_linear_188_3178)" mask="url(#path-15-inside-3_188_3178)"/>
+<path d="M13.752 11.4996L11.4404 13.5826C11.2619 12.9642 10.6972 12.4996 10.0049 12.4996H7.5V10.4996H10C10.7153 10.4996 11.2655 10.0249 11.4404 9.41565L13.752 11.4996Z" stroke="white" stroke-opacity="0.2"/>
 </g>
 <defs>
 <filter id="filter0_i_188_3178" x="6" y="7" width="12" height="11" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

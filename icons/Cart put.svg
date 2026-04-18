@@ -1,16 +1,19 @@
-<svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M1 5.5H13.5M2 7.5H13M3 9.5H13" stroke="url(#paint0_linear_474_8010)" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M4.5 5.5V10.5M6.5 5.5V10.5M8.5 5.5V10.5M10.5 5.5V10.5M2.5 5.5V8.5M12.5 5.5V10.5" stroke="url(#paint1_linear_474_8010)" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M13.5 5.5V12.5M13.5 12.5V13.5C13.5 14.0523 13.0523 14.5 12.5 14.5H10M13.5 12.5C13.5 11.33 12.66 10.5 11.5 10.5C10.4906 10.5 5.71411 10.5 4.06304 10.5C3.71178 10.5 3.38942 10.3157 3.2087 10.0145L0.785014 5.97502C0.598516 5.66419 0.5 5.30852 0.5 4.94603V4.5M10 14.5H3H1.5C1.5 13.8333 1.5 12.5 3 12.5C3.8 12.5 8.83333 12.5 11.5 12.5C11.5 13.1667 11.5 14.5 10 14.5Z" stroke="url(#paint2_linear_474_8010)" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="4.5" cy="14.5" r="1" fill="#D9D9D9" stroke="#656565"/>
 <circle cx="11.5" cy="14.5" r="1" fill="#D9D9D9" stroke="#656565"/>
-<path d="M0.5 5C0.5 5.27614 0.723858 5.5 1 5.5H1.5H12.5C13.0523 5.5 13.5 5.05228 13.5 4.5C13.5 3.94772 13.0523 3.5 12.5 3.5H1.5C0.947715 3.5 0.5 3.94772 0.5 4.5V5Z" fill="url(#paint3_linear_474_8010)" stroke="url(#paint4_linear_474_8010)" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M11.8083 3.77743C11.812 3.77379 11.8157 3.77013 11.8193 3.76646C12.3306 3.25499 13.0853 2.5 14.5 2.5C15.0523 2.5 15.5 2.94772 15.5 3.5C15.5 4.05228 15.0523 4.5 14.5 4.5C14.197 4.5 13.9987 4.56686 13.8272 4.66985C13.6364 4.78447 13.4621 4.95215 13.2071 5.20711C12.8166 5.59763 12.1834 5.59763 11.7929 5.20711C11.4024 4.81658 11.4024 4.18342 11.7929 3.79289L11.7929 3.79289M11.8083 3.77743L11.7929 3.79289M11.8083 3.77743C11.8083 3.77743 11.8083 3.77744 11.8083 3.77744M11.8083 3.77743L11.8083 3.77744M11.7929 3.79289L11.8083 3.77744M11.7929 3.79289L11.8083 3.77744" fill="url(#paint5_linear_474_8010)" stroke="url(#paint6_linear_474_8010)" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.5 3.5C13.0523 3.5 13.5 3.94772 13.5 4.5C13.5 5.05228 13.0523 5.5 12.5 5.5H1C0.723858 5.5 0.5 5.27614 0.5 5V4.5C0.5 3.94772 0.947715 3.5 1.5 3.5H12.5Z" fill="url(#paint3_linear_474_8010)" stroke="url(#paint4_linear_474_8010)" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.5 2.5C15.0523 2.5 15.5 2.94772 15.5 3.5C15.5 4.05228 15.0523 4.5 14.5 4.5C14.197 4.5 13.9986 4.56694 13.8271 4.66992C13.6364 4.78455 13.4619 4.95212 13.207 5.20703C12.8165 5.59756 12.1835 5.59756 11.793 5.20703C11.4024 4.81651 11.4024 4.18349 11.793 3.79297C11.7981 3.78784 11.8034 3.78253 11.8086 3.77734C12.32 3.26578 13.0753 2.5 14.5 2.5Z" fill="url(#paint5_linear_474_8010)" stroke="url(#paint6_linear_474_8010)" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M14.5 4.5C14 4.5 13.5 5 13.5 5.5V6.5" stroke="url(#paint7_linear_474_8010)" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="path-9-inside-1_474_8010" fill="white">
+<path d="M10 3V0L6 0V3H4L8 7L12 3H10Z"/>
+</mask>
 <g filter="url(#filter0_i_474_8010)">
 <path d="M10 3V0L6 0V3H4L8 7L12 3H10Z" fill="#82C27C"/>
 </g>
-<path d="M9.5 3C9.5 3.27614 9.72386 3.5 10 3.5L10.7929 3.5L8 6.29289L5.20711 3.5H6C6.27614 3.5 6.5 3.27614 6.5 3V0.5L9.5 0.5V3Z" stroke="url(#paint8_linear_474_8010)" stroke-linejoin="round"/>
+<path d="M10 0H11L11 -1H10V0ZM10 3H9C9 3.55228 9.44772 4 10 4V3ZM12 3L12.7071 3.70711L14.4142 2H12V3ZM8 7L7.29289 7.70711L8 8.41421L8.70711 7.70711L8 7ZM4 3V2H1.58579L3.29289 3.70711L4 3ZM6 3L6 4C6.55228 4 7 3.55228 7 3H6ZM6 0V-1H5V0H6ZM10 0H9V3H10H11V0H10ZM10 3V4L12 4V3V2H10V3ZM12 3L11.2929 2.29289L7.29289 6.29289L8 7L8.70711 7.70711L12.7071 3.70711L12 3ZM8 7L8.70711 6.29289L4.70711 2.29289L4 3L3.29289 3.70711L7.29289 7.70711L8 7ZM4 3L4 4H6L6 3V2H4V3ZM6 3H7V0H6H5V3H6ZM6 0V1L10 1V0V-1H6V0Z" fill="url(#paint8_linear_474_8010)" mask="url(#path-9-inside-1_474_8010)"/>
 <defs>
 <filter id="filter0_i_474_8010" x="4" y="0" width="9" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>

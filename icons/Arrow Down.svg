@@ -1,8 +1,11 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_85_1698" fill="white">
+<path d="M10 11L10 1H6L6 11H4L8 15L12 11H10Z"/>
+</mask>
 <g filter="url(#filter0_i_85_1698)">
 <path d="M10 11L10 1H6L6 11H4L8 15L12 11H10Z" fill="#82C27C"/>
 </g>
-<path d="M9.5 11C9.5 11.2761 9.72386 11.5 10 11.5H10.7929L8 14.2929L5.20711 11.5H6C6.27614 11.5 6.5 11.2761 6.5 11L6.5 1.5H9.5L9.5 11Z" stroke="url(#paint0_linear_85_1698)" stroke-linejoin="round"/>
+<path d="M10 1H11V0H10V1ZM10 11H9C9 11.5523 9.44772 12 10 12V11ZM12 11L12.7071 11.7071L14.4142 10H12V11ZM8 15L7.29289 15.7071L8 16.4142L8.70711 15.7071L8 15ZM4 11V10H1.58579L3.29289 11.7071L4 11ZM6 11L6 12C6.55228 12 7 11.5523 7 11H6ZM6 1V0H5V1H6ZM9 1L9 11H11L11 1H9ZM10 12H12V10H10V12ZM11.2929 10.2929L7.29289 14.2929L8.70711 15.7071L12.7071 11.7071L11.2929 10.2929ZM8.70711 14.2929L4.70711 10.2929L3.29289 11.7071L7.29289 15.7071L8.70711 14.2929ZM4 12H6L6 10H4L4 12ZM7 11L7 1H5L5 11H7ZM6 2H10V0H6V2Z" fill="url(#paint0_linear_85_1698)" mask="url(#path-1-inside-1_85_1698)"/>
 <defs>
 <filter id="filter0_i_85_1698" x="4" y="1" width="9" height="15" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
