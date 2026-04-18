@@ -1,3 +1,10 @@
+## [1.3.5](https://github.com/Simandara/famfamfam-silk-svg/compare/v1.3.4...v1.3.5) (2026-04-18)
+
+
+### Bug Fixes
+
+* **#241:** 🐛 added CD fragments with linear gradients as fallback ([#242](https://github.com/Simandara/famfamfam-silk-svg/issues/242)) ([e16346b](https://github.com/Simandara/famfamfam-silk-svg/commit/e16346bae8c1c78e2f0053dc1ae10c9694b3829d)), closes [#241](https://github.com/Simandara/famfamfam-silk-svg/issues/241) [#241](https://github.com/Simandara/famfamfam-silk-svg/issues/241) [#241](https://github.com/Simandara/famfamfam-silk-svg/issues/241) [#241](https://github.com/Simandara/famfamfam-silk-svg/issues/241)
+
 ## [1.3.4](https://github.com/Simandara/famfamfam-silk-svg/compare/v1.3.3...v1.3.4) (2026-01-04)
 
 
